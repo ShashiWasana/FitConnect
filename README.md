@@ -5,7 +5,7 @@ Please go under edit and edit this file as needed for your project
 # Project Group - JUN_WE_22
 ### Group Leader - IT21057410 - Warushavithana T.M (thanukaMinik)
 ### Member 2 - IT21086434 - De Silva R. S (Shena17)
-### Member 3 - 
+### Member 3 - IT21132278 - Wasana P.D.S (ShashiWasana)
 ### Member 4 - 
 
 #### Brief Description of your Solution - 
